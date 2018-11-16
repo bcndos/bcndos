@@ -1,2 +1,0 @@
-# bcndos
-test bcnods
